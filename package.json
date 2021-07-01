@@ -6,7 +6,7 @@
   "unityRelease": "0f1",
   "displayName": "Analytics Test",
   "dependencies": {
-    "com.gameanalytics.sdk": "6.6.4"
+    "com.gameanalytics.sdk": "https://github.com/GameAnalytics/GA-SDK-UNITY.git"
   },
   "upmCi": {
     "footprint": "2ae423aef91e9b370863c9531c9372d6cb9a036c"
